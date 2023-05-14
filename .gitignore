@@ -1,1 +1,4 @@
 .idea/
+bmp280_spi_RPi.egg-info/
+build/
+dist/
